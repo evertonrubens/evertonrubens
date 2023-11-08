@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evertonrubens
 - 👀 I'm interested in building, promoting and collaborating with the community, exposing and publishing various ecosystems in java, javascript, rest API's with spring-boot, 
-      nodejs, go-server, kotlin-server, sinatra, python, mojo and mulesoft anypoint studio for integration. Furthermore, I am studying machine learning, deep learning,
+      nodejs, go-server, rust, python, mojo and mulesoft anypoint studio for integration. Furthermore, I am studying machine learning, deep learning, GAN’s (Generative Adversarial Networks),
       Generative AI, R, and Python for Data Science and Analytics. With this, I am going to post a lot of Python and R projects here for Data Analysis, Data Wrangling,
       Machine Learning, Deep Learning, among others...
 - 🌱 I'm currently digging into Mulesoft tools,  webMethods API Gateway, Sensedia API Gateway, CA Gateway.
